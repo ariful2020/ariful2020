@@ -17,10 +17,10 @@ Skills: WORDPRESS/PHP/ JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ariful2020)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariful2020)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariful2020&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariful2020)](https://github.com/anuraghazra/github-readme-stats)     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariful2020&show_icons=true)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ariful2020)  
 
-![GitHub metrics](https://metrics.lecoq.io/ariful2020)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ariful2020)    
+![GitHub metrics](https://metrics.lecoq.io/ariful2020)     ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ariful2020)    
 
 ![Profile views](https://gpvc.arturio.dev/ariful2020)  
 
