@@ -24,11 +24,3 @@ Skills: WORDPRESS/PHP/ JS / HTML / CSS
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariful2020)](https://github.com/anuraghazra/github-readme-stats)                             ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariful2020&show_icons=true)  
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ariful2020)  
-
-
-![GitHub metrics](https://metrics.lecoq.io/ariful2020)                              ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ariful2020)    
-
-
