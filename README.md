@@ -4,10 +4,10 @@
 #### Programmer And Full Stack Web Developer
 
 
-Web Developer with a demonstrated history of working in the Outsourcing Institute. Skilled in Cascading Style Sheets (CSS), HTML, JavaScript, Bootstrap4, PHP And Wordpress. Strong engineering professional with a B.Sc Honour focused in Botany/Plant Biology from Sirajganj govt. College, Sirajganj.
+Web Developer with a demonstrated history of working in the Outsourcing Institute. Skilled in HTML, Cascading Style Sheets (CSS), Bootstrap5, JavaScript (Mern Stack), PHP And Wordpress. Strong engineering professional with a B.Sc Honour focused in Botany/Plant Biology from Sirajganj govt. College, Sirajganj.
 
 
-Skills: WORDPRESS/PHP/ JS / HTML / CSS
+Skills:  HTML / CSS3 / BOOTSTRAP5 / WORDPRESS / JS / PHP 
 
 
 ![Profile views](https://gpvc.arturio.dev/ariful2020)  
@@ -20,7 +20,5 @@ Skills: WORDPRESS/PHP/ JS / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ariful2020)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ariful-islam52//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/arifulislam.noyon.71)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/13arif13)  
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariful2020)](https://github.com/anuraghazra/github-readme-stats)                             ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariful2020&show_icons=true)  
