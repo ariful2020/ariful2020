@@ -14,7 +14,7 @@ Skills: WORDPRESS/PHP/ JS / HTML / CSS
 
 
 - 🔭 I’m currently working on LFWF Academy 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript (Mern Stack) 
 - 💬 Ask me about Web-Developer 
 - ⚡ Fun fact: Coding 
 
